@@ -1,5 +1,7 @@
 # Car Price Predictor
 
+![1](https://github.com/Subham1100/Car-price-prediction/assets/100254554/a6d288a6-0a93-4a85-9f5d-c9e68fb1331f)
+
 # Aim
 
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
@@ -26,6 +28,8 @@ Some packages are:
 2. It then predicts the possible price of the car. For example, the image below shows the predicted price of our Hyundai Grand i10.
 
 ## How this project does?
+
+![2](https://github.com/Subham1100/Car-price-prediction/assets/100254554/e7f34350-8988-473c-a84b-490c678c3198)
 
 1. First of all the data was scraped from Quikr.com (https://quikr.com)
    Link for data: https://github.com/Subham1100/Car-price-prediction/blob/master/quikr_car.csv
